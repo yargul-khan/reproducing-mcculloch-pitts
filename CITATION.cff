@@ -2,12 +2,12 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below, alongside the original 1943 paper it reproduces."
 title: "Reproducing McCulloch-Pitts (1943)"
 authors:
-  - family-names: "Yar"
-    given-names: ""
+  - family-names: "Gul"
+    given-names: "Yar"
 version: 0.1.0
 date-released: 2026-06-21
 license: MIT
-repository-code: "https://github.com/<your-username>/reproducing-mcculloch-pitts"
+repository-code: "https://github.com/<yargul-khan>/reproducing-mcculloch-pitts"
 references:
   - type: article
     authors:
