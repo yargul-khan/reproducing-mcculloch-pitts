@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below, alongside the original 1943 paper it reproduces."
+title: "Reproducing McCulloch-Pitts (1943)"
+authors:
+  - family-names: "Yar"
+    given-names: ""
+version: 0.1.0
+date-released: 2026-06-21
+license: MIT
+repository-code: "https://github.com/<your-username>/reproducing-mcculloch-pitts"
+references:
+  - type: article
+    authors:
+      - family-names: "McCulloch"
+        given-names: "Warren S."
+      - family-names: "Pitts"
+        given-names: "Walter"
+    title: "A logical calculus of the ideas immanent in nervous activity"
+    journal: "The Bulletin of Mathematical Biophysics"
+    volume: 5
+    start: 115
+    end: 133
+    year: 1943
