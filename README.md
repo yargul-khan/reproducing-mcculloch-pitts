@@ -25,14 +25,14 @@ The McCulloch–Pitts neuron is represented here as a binary threshold unit. It 
 
 In the simplified implementation, the firing rule is:
 
-\[
+$$
 y =
 \begin{cases}
 0, & \text{if any inhibitory input is active},\\
 1, & \text{if } \sum_i x_i \geq \theta,\\
 0, & \text{otherwise}.
 \end{cases}
-\]
+$$
 
 Here, \(x_i\) are binary excitatory inputs and \(\theta\) is the firing threshold.
 
