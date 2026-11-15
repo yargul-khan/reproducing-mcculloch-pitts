@@ -7,11 +7,7 @@ authors:
 version: 0.1.0
 date-released: 2026-06-21
 license: MIT
-<<<<<<< HEAD
 repository-code: "https://github.com/yargul-khan/reproducing-mcculloch-pitts"
-=======
-repository-code: "https://github.com/<yargul-khan>/reproducing-mcculloch-pitts"
->>>>>>> 153a4ab4b8fd608ed1226de33d138db5d372ea4c
 references:
   - type: article
     authors:

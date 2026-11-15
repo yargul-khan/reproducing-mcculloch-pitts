@@ -1,3 +1,4 @@
+
 [build-system]
 requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
@@ -15,10 +16,7 @@ dev = ["pytest>=7.0"]
 
 [tool.setuptools.packages.find]
 where = ["src"]
-<<<<<<< HEAD
 
 [project.urls]
 Repository = "https://github.com/yargul-khan/reproducing-mcculloch-pitts"
 Article = "https://natureofminds.substack.com/p/investigating-the-mccullochpitts"
-=======
->>>>>>> 153a4ab4b8fd608ed1226de33d138db5d372ea4c

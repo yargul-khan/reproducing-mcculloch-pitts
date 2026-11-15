@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Reproducing the McCulloch–Pitts Neuron (1943)
 
 A small Python reconstruction of selected ideas from Warren S. McCulloch and Walter Pitts' 1943 paper, *A Logical Calculus of the Ideas Immanent in Nervous Activity*. This repository accompanies the article [Investigating the McCulloch–Pitts Neuron: Revisiting the 1943 Paper That Laid the Foundation for Neural Networks](https://natureofminds.substack.com/p/investigating-the-mccullochpitts).
@@ -145,7 +144,3 @@ pytest
 ---
 
 Developed as an independent educational and research-oriented implementation by [Yar Gul](https://github.com/yargul-khan).
-=======
-# reproducing-mcculloch-pitts
-A modern yet simple Python implementation of McCulloch–Pitts ' 1943 foundational paper on artificial neurons. It is an accompanying code repository for the Substack article titled Investigating the McCulloch–Pitts Neuron: Revisiting the 1943 Paper That Laid the Foundation for Neural Networks
->>>>>>> 153a4ab4b8fd608ed1226de33d138db5d372ea4c
