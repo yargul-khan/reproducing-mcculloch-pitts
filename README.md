@@ -34,7 +34,7 @@ y =
 \end{cases}
 $$
 
-Here, \(x_i\) are binary excitatory inputs and \(\theta\) is the firing threshold.
+Here, $x_i$ represents a binary excitatory input, and $\theta$ represents the firing threshold.
 
 ![McCulloch–Pitts neuron: inputs, summation, threshold, and output](docs/figures/figure-01-mcculloch-pitts-neuron.png)
 
